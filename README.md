@@ -9,10 +9,11 @@
 
 - **1. Pastikan berada di folder yang sudah dibuat.**
 - **2.	Ketikkan perintah  :**
+- **3.	Menginstall  :**
 <p>composer require laravel/ui</p>
 <p>php artisan ui bootstrap --auth</p>
 <p>Jalankan dengan php artisan serve</p>
-- **3. Menginstal npm untuk menampilkan bootstrap caranya yaitu :**
+<p><b>3. Menginstal npm untuk menampilkan bootstrap caranya yaitu :**
 <p><b>npm install</b></p>
 <p>npm run dev</p>
 - **Kemudian refresh halaman dibuat**
