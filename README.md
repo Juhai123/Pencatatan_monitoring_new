@@ -27,7 +27,7 @@
 ---<b>Membuat hak akses</b>---
 - <p><b>Menambahkan use HashRole ke model user</b></p>
 - <p><b>Menambahkan use HashRole ke model user</b></p>
-- <p>Buat file Seeser untuk menambahkan user dengan cara :
+- <p>Buat file Seeder untuk menambahkan user dengan cara :
 - <b>php artisan make:seeder RoleSeeder</b></p>
 - <p>Tambahkan role ke function run RoleSeeder</p>
 - <p>Buat file Seeser untuk menambahkan user dengan cara :
