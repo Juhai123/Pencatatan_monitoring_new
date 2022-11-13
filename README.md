@@ -8,12 +8,12 @@
 ## Instalasi Bootstrap Auth Scaffolding Laravel UI
 
 - **1. Pastikan berada di folder yang sudah dibuat.**
-- **2.	Ketikkan perintah  :
+- **2.	Ketikkan perintah  :**
 <p>composer require laravel/ui</p>
 <p>php artisan ui bootstrap --auth</p>
-Jalankan dengan <b>php artisan serve</b>
-Menginstal npm untuk menampilkan bootstrap caranya yaitu :
-<b>npm install
-npm run dev</b>
-Kemudian refresh halaman dibuat**
+<p>Jalankan dengan php artisan serve</p>
+- **Menginstal npm untuk menampilkan bootstrap caranya yaitu :**
+<p><b>npm install</b></p>
+<p>npm run dev</p>
+**Kemudian refresh halaman dibuat**
 
