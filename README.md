@@ -18,11 +18,11 @@
 
 ## Autorisasi Spatie Laravel
 
----<b>Menambahkan spatie ke migration</b>---
+<p>---<b>Menambahkan spatie ke migration</b>---</p>
 - <p><b>composer require spatie/laravel-permission</b></p>
 - <p><b>php artisan vendor:publish --provider="Spatie\Permission\PermissionServiceProvider"</b></p>
 - <p><b>php artisan migrate</b></p>
----<b>Membuat hak akses</b>---
+<p>---<b>Membuat hak akses</b>---</p>
 - <p><b>Menambahkan use HashRole ke model user</b></p>
 - <p><b>Menambahkan use HashRole ke model user</b></p>
 - <p>Buat file Seeser untuk menambahkan user dengan cara :
